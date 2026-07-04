@@ -1,0 +1,6 @@
+{
+  "name": "MUALLIM",
+  "description": "AI-Powered Arabic Learning Platform. Your teacher, your Arabic journey. Includes courses, dictionary, speaking practice, and interactive Gemini AI teacher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
